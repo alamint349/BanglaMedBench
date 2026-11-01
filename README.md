@@ -527,9 +527,9 @@ The benchmark is primarily a **research and evaluation resource**.
 
 ---
 
-## Out-of-Scope Use
+## Out-of-Scope Use 
 
-BanglaMedBench should **not** be used as:
+BanglaMedBench should **not** be used as: 
 
 - A clinical diagnostic system
 - A substitute for professional medical advice
